@@ -9,7 +9,7 @@ const CardDiv = styled.div`
     justify-content: center;
     
 `
-//CodeGrade hates me and I have to put this in to test it
+
 const Cards = props => {
 
     const {characters} = props
